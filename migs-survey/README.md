@@ -1,1 +1,0 @@
-# migs-survey
