@@ -540,7 +540,8 @@ class App extends Component {
                 questionText="What is the major construction material of the floor of their home (observe, do not ask)?"
                 options={[
                   "Earth/sand, palm/bamboo, combination earth and wood/palm/bamboo or other",
-                  "Wood planks, parquet or polished wood, cement, wood/cement with covering or combination of cement/wood and something else"
+                  "Wood planks, parquet or polished wood, cement, wood/cement with covering or combination of cement/wood and something else",
+                  "Did not answer"
                 ]}
                 allowOther={false}
                 questionWidth={this.calcQuestionWidth()}
@@ -555,7 +556,8 @@ class App extends Component {
                   "Thatch/large leaves/palm/dhani or tarpaulin",
                   "Bamboo or rudimentary wood",
                   "Unbaked brick and mud, finished wood",
-                  "Baked brick and cement or pucca cement"
+                  "Baked brick and cement or pucca cement",
+                  "Did not answer"
                 ]}
                 allowOther={false}
                 questionWidth={this.calcQuestionWidth()}

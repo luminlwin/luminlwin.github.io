@@ -1,7 +1,7 @@
 {
   "name": "migs-survey-app",
   "version": "0.1.0",
-  "homepage": "https://luminlwin.github.io/migs/",
+  "homepage": "https://yanoak.github.io/migs-survey/",
   "private": true,
   "dependencies": {
     "d3-array": "^2.0.3",
