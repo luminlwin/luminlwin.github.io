@@ -1,14 +1,14 @@
 {
-  "main.css": "/migs-survey/static/css/main.0b1fa3bd.chunk.css",
-  "main.js": "/migs-survey/static/js/main.c598ca4c.chunk.js",
-  "main.js.map": "/migs-survey/static/js/main.c598ca4c.chunk.js.map",
-  "runtime~main.js": "/migs-survey/static/js/runtime~main.79b11502.js",
-  "runtime~main.js.map": "/migs-survey/static/js/runtime~main.79b11502.js.map",
-  "static/js/2.0e084501.chunk.js": "/migs-survey/static/js/2.0e084501.chunk.js",
-  "static/js/2.0e084501.chunk.js.map": "/migs-survey/static/js/2.0e084501.chunk.js.map",
-  "index.html": "/migs-survey/index.html",
-  "precache-manifest.c59b5051214c7a680dfdbbdd34d17db0.js": "/migs-survey/precache-manifest.c59b5051214c7a680dfdbbdd34d17db0.js",
-  "service-worker.js": "/migs-survey/service-worker.js",
-  "static/css/main.0b1fa3bd.chunk.css.map": "/migs-survey/static/css/main.0b1fa3bd.chunk.css.map",
-  "static/media/App.css": "/migs-survey/static/media/myanmarcensus.cb418c48.woff2"
+  "main.css": "/migs/static/css/main.a3e10f87.chunk.css",
+  "main.js": "/migs/static/js/main.0c2cb3bc.chunk.js",
+  "main.js.map": "/migs/static/js/main.0c2cb3bc.chunk.js.map",
+  "runtime~main.js": "/migs/static/js/runtime~main.551854d7.js",
+  "runtime~main.js.map": "/migs/static/js/runtime~main.551854d7.js.map",
+  "static/js/2.92bc5a83.chunk.js": "/migs/static/js/2.92bc5a83.chunk.js",
+  "static/js/2.92bc5a83.chunk.js.map": "/migs/static/js/2.92bc5a83.chunk.js.map",
+  "index.html": "/migs/index.html",
+  "precache-manifest.7bd50c417c6aafb5dafc90098aa86174.js": "/migs/precache-manifest.7bd50c417c6aafb5dafc90098aa86174.js",
+  "service-worker.js": "/migs/service-worker.js",
+  "static/css/main.a3e10f87.chunk.css.map": "/migs/static/css/main.a3e10f87.chunk.css.map",
+  "static/media/App.css": "/migs/static/media/myanmarcensus.cb418c48.woff2"
 }
